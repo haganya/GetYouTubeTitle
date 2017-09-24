@@ -1,0 +1,11 @@
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\bin\Debug\Youtube Title Haganya.exe.config
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\bin\Debug\Youtube Title Haganya.exe
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\bin\Debug\Youtube Title Haganya.pdb
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\obj\Debug\Youtube Title Haganya.csprojResolveAssemblyReference.cache
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\obj\Debug\Youtube_Title_Haganya.HakkimdaForm.resources
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\obj\Debug\Youtube_Title_Haganya.Form1.resources
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\obj\Debug\Youtube_Title_Haganya.Properties.Resources.resources
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\obj\Debug\Youtube Title Haganya.csproj.GenerateResource.Cache
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\obj\Debug\Youtube Title Haganya.csproj.CoreCompileInputs.cache
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\obj\Debug\Youtube Title Haganya.exe
+c:\users\echo\documents\visual studio 2017\Projects\Youtube Title Haganya\Youtube Title Haganya\obj\Debug\Youtube Title Haganya.pdb
